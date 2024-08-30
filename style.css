@@ -1,0 +1,16 @@
+.brand-gradient {
+    background: #00b3ff;
+    background: -webkit-linear-gradient(to right, #00b3ff, #32cd44);
+    background: linear-gradient(to right, #00b3ff, #32cd44);
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+}
+.banner-holder, .main-page-header{
+    background-image: url(pexels-francesco-ungaro-998641.jpg);
+    background-size: cover;
+    background-position: bottom;
+}
+.custom-nav{
+    backdrop-filter: blur(8px);
+}
